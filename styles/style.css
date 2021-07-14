@@ -76,7 +76,7 @@ button{
 
 /* -------------
  Second Section
- --------------- Style */
+ --------------- */
 
 .middle-section{
     
@@ -113,7 +113,10 @@ h3{
 .player img{
     width: 100%;   
 }
-/* Third Sectio */
+
+/* -----------
+ Third Section
+ ------------- */
 
 .contact-container{
     box-sizing: border-box;
@@ -224,6 +227,8 @@ The final Section
  Media Queries 
  ------------- */
 
+/* For Mobile Devices */
+
  @media only screen and (max-width: 688px) {
     
     
@@ -260,6 +265,9 @@ The final Section
     }
     
 }
+
+/* For Tablet Devices */
+
 @media only screen and (max-width: 992px) {
     
     .players{
